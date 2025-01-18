@@ -174,4 +174,3 @@ secrets.json
 secrets.txt
 *.env
 .terraform/
-.terraform/
