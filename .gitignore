@@ -174,3 +174,8 @@ secrets.json
 secrets.txt
 *.env
 .terraform/
+backend/.env
+frontend/.env
+.dockerignore
+backend/.dockerignore
+frontend/.dockerignore
