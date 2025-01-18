@@ -172,5 +172,6 @@ vector_database
 
 secrets.json
 secrets.txt
-*.env.terraform/
-.terraform/.terraform/
+*.env
+.terraform/
+.terraform/
