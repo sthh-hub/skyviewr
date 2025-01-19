@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",             // Set to the current directory
+    "outDir": "./",         // Output files go to `../dist` relative to `lambda_function`
+    "strict": true,              // Enable strict type checking
+    "module": "commonjs",        // Node.js uses CommonJS modules
+    "target": "es2020",          // Use ES2020 features
+    "esModuleInterop": true      // Enable ES module interop for compatibility
+  },
+  "include": ["**/*.ts"],        // Include all `.ts` files in this directory and subdirectories
+  "exclude": ["node_modules"]   // Exclude the `node_modules` directory
+}
